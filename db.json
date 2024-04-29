@@ -1,0 +1,19 @@
+{
+  "studentRoster": [
+    {
+      "fullName": "Mike",
+      "researchAssignment": "Animal",
+      "id": "3f5f"
+    },
+    {
+      "id": "3d12",
+      "fullName": "test",
+      "researchAssignment": "123"
+    },
+    {
+      "id": "25d5",
+      "fullName": "test2",
+      "researchAssignment": "456"
+    }
+  ]
+}
